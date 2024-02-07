@@ -2,8 +2,7 @@
 
 cia yra kodas:
 
-'''
-commandline
-'''
-print("Labas")
-nzn
+
+[//]: # (sita vieta bus nerodoma)
+print ("Labas")
+
